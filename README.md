@@ -1,4 +1,4 @@
-# rock-paper-scissors
+# Rock, Paper, Scissors
 A terminal-based networking application which allows two users to play rock, paper, scissors.  
 Programmer: Anne Warden
 
